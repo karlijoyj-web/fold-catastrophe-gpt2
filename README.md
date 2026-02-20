@@ -3,6 +3,7 @@
 When GPT-2 encounters an ambiguous token — a period that could be a decimal or a sentence boundary — it resolves the ambiguity by crossing a *fold*: a low-dimensional decision boundary with the geometric properties predicted by catastrophe theory.
 
 **Paper:** paper.md
+
 **Author:** Karli Joy (karlijoyj@gmail.com)
 
 ## Quick Start
