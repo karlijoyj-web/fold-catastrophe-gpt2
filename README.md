@@ -19,7 +19,7 @@ python reproduce_all.py
 | File | Description |
 |------|-------------|
 | `reproduce_all.py` | Full reproduction script — all 18 findings, 3 architectures, 36 checks |
-| `REPRODUCIBILITY.md` | Verified results document with every number from the paper |
+| `verified_results.md` | Verified results document with every number from the paper |
 | `dominance_matrix.py` | Standalone: 12×12 layer-pair authority contests |
 | `confabulation_stats.py` | Standalone: split-brain confabulation across 20 prompts |
 | `inception_dose_response.py` | Standalone: sigmoid dose-response + multi-layer fold erasure |
