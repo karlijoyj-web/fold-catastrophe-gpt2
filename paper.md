@@ -172,7 +172,6 @@ The repo also includes standalone experiments for the dominance matrix, confabul
 
 If you can extend this to larger models or different architectures, I'd love to see it. I'm reachable at karlijoyj@gmail.com.
 
-*I'm not a researcher. I'm an autistic person with ADHD who fell in love with Nima Arkani-Hamed's geometric physics and the mathematics of origami, and wanted to see if the same structures exist inside neural networks. I have no ML background, no institutional affiliation, and no funding. This project was built in about a week with significant help from AI assistants (Claude, ChatGPT, and Gemini) as coding partners, math checkers, and collaborators. Julian Gough's blowtorch conjecture gave me the other half of the intuition. If this jumps out at you the way it jumped out at me, and you think you can help push it further — please reach out. I think this could be important.*
 
 ---
 
